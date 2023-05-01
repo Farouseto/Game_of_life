@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1682939305 source:c:\users\admin\desktop\programs\game_of_life\button.cpp
+	"Button.h"
+
+1682940173 c:\users\admin\desktop\programs\game_of_life\button.h
+	<string>
+	<iostream>
+	<fstream>
+	<vector>
+
+1682941538 source:c:\users\admin\desktop\programs\game_of_life\main.cpp
+	<SDL.h>
+	"Button.h"
+

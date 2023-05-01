@@ -1,0 +1,13 @@
+"L"-Layer_Button
+"L"-[Link,name...]
+"B"-Button_Parameters
+"B"-[Layer,x,y,h,w,ImX,ImY]
+
+L Buttonset.png PLAY OPTION QUIT
+L Buttonset.png BACK QUIT
+
+B 0 153 63 142 59 0 0
+B 0 153 200 100 100 5 11
+B 0 153 337 100 100 5 11
+B 1 153 60 100 100 5 11
+B 1 153 337 100 100 5 11
